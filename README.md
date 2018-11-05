@@ -6,5 +6,5 @@ Questo script in python permette di recupare l'url al pdf di qualunque degli ult
 # Uso
 - Scaricate lo script
 - Avviatelo con `python ilmanifesto2pdf.py`
-- Inserite l'url dell'articolo che vi interessa (potete ottenerlo tramite qualunque browser, cliccando col tasto destro sul link e selezionando "Copia indirizzo link"
+- Inserite l'url dell'articolo che vi interessa (potete ottenerlo tramite qualunque browser, cliccando col tasto destro sul link e selezionando "Copia indirizzo link")
 - Verrà fornito il link al pdf del relativo articolo, da scaricare
